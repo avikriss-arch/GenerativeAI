@@ -1,0 +1,2 @@
+I am using w+ example
+This is second line of the file.
